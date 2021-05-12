@@ -1,0 +1,16 @@
+.right{
+    position: relative;
+    right: 4vw;
+    float:right
+}
+
+.header{
+    position: relative;
+    top: 2vh;
+    font-weight: bolder;
+}
+
+.show-right{
+    float:right;
+   
+}

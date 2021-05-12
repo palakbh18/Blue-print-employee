@@ -1,0 +1,88 @@
+{
+  "employee": [
+    {
+      "fullName": "John Doe",
+      "address": "Address 1",
+      "phoneNumber": "4625162736",
+      "id": "1",
+      "position": "Senior Manager"
+    },
+    {
+      "fullName": "Roger Flynn",
+      "address": "Address 2",
+      "phoneNumber": "4625122736",
+      "id": "2",
+      "position": "Project Manager"
+    },
+    {
+      "fullName": "Alex Visaramy",
+      "address": "Address 3",
+      "phoneNumber": "3225122736",
+      "id": "3",
+      "position": "Production Manager"
+    },
+    {
+      "fullName": "Kyle Pitt",
+      "address": "Address 4",
+      "phoneNumber": "3243122736",
+      "id": "4",
+      "position": "HR Director"
+    },
+    {
+      "fullName": "Elizabeth James",
+      "address": "Address 5",
+      "phoneNumber": "3233122736",
+      "id": "5",
+      "position": "Editor"
+    },
+    {
+      "fullName": "Shelly Bell",
+      "address": "Address 6",
+      "phoneNumber": "1253122736",
+      "id": "6",
+      "position": "General Manager"
+    },
+    {
+      "fullName": "Martin Ziberman",
+      "address": "Address 7",
+      "phoneNumber": "3333122736",
+      "id": "7",
+      "position": "Project Manager"
+    },
+    {
+      "fullName": "Palak Bhatia",
+      "address": "1056 Finch Avenue\n",
+      "phoneNumber": "8073581127",
+      "position": "student",
+      "id": "GEDtM6E"
+    },
+    {
+      "fullName": "Palak Bhatia",
+      "address": "1056 Finch Avenue\n",
+      "phoneNumber": "8073581127",
+      "position": "student",
+      "id": "YgAQk4M"
+    },
+    {
+      "fullName": "nitin",
+      "address": "fjwk",
+      "phoneNumber": "7097",
+      "position": "nothg",
+      "id": "xwZ9MRZ"
+    },
+    {
+      "fullName": "nidhi",
+      "address": "toronto",
+      "phoneNumber": "diwjd`",
+      "position": "nfkemfl",
+      "id": "y15kN9R"
+    },
+    {
+      "fullName": "palak",
+      "address": "something",
+      "phoneNumber": "efwwdwdd",
+      "position": "fef",
+      "id": "eA6GV8v"
+    }
+  ]
+}

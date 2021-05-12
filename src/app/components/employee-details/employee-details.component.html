@@ -1,0 +1,25 @@
+<div class="table show-right" *ngIf="employee">
+
+  <h2>Personal Information</h2>
+  <table>
+    <thead>
+      <tr>
+        <th scope="col">Full Name</th>
+        <th scope="col">Address</th>
+        <th scope="col">Phone Number</th>
+        <th scope="col">Position</th>
+
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="col-sm-10 ">
+        <td scope="row">{{employee.fullName}}</td>
+        <td scope="row">{{employee.address}}</td>
+        <td scope="row">{{employee.phoneNumber}}</td>
+        <td scope="row">{{employee.id}}</td>
+        <td scope="row">{{employee.position}}</td>
+      </tr>
+    </tbody>
+  </table>
+  <a [routerLink]="[ '/employee'] ">Back</a>
+</div>
